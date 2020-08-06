@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	background-color: gold;
+}
+
+.card{
+	/* text-indent: 1rem; */
+	color:white;
+	justify-content: space-around;
+	display: inline-flex;
+	border-bottom: royalblue 2px solid ;
+	border-left: blue 2px solid;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-left:100px;
+	margin-top: 20px;
+}
+
+.card-body{
+	background-color:black;
+}
+
+	
